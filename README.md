@@ -1,7 +1,6 @@
 Hi there 👋
 Myself Aditya 
-I am a Bcom. student who has got interest in programming while knowing about something related to software engineers.
-So I have decided to learn my first programming language Python.
+I have decided to learn my first programming language Python.
 This repository I have to for my projects I will make in this journey of mastering the coding skills using python
 <!--
 **adityasoni2003/adityasoni2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
